@@ -13,7 +13,7 @@ drag the zip/rar/exe, etc to  the terminal
 
 
 [alt text](https://github.com/GitLabBR/ripzip/blob/main/example1.PNG)
-[alt text]([files://example2.png](https://github.com/GitLabBR/ripzip/blob/main/example2.png))
-[alt text]([files://example3.png](https://github.com/GitLabBR/ripzip/blob/main/example3.png))
-[alt text]([files://example3end.PNG](https://github.com/GitLabBR/ripzip/blob/main/example3end.PNG))
+[alt text](https://github.com/GitLabBR/ripzip/blob/main/example2.png)
+[alt text](https://github.com/GitLabBR/ripzip/blob/main/example3.png)
+[alt text](https://github.com/GitLabBR/ripzip/blob/main/example3end.PNG)
 
