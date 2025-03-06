@@ -10,10 +10,12 @@ ebola man
 basically run the app
 drag the zip/rar/exe, etc to  the terminal
 
-
-
+# screenshots
+<br><br>
 <img src="https://github.com/GitLabBR/ripzip/blob/main/example1.PNG">
+<br><br>
 <img src="https://github.com/GitLabBR/ripzip/blob/main/example2.png">
+<br><br>
 <img src="https://github.com/GitLabBR/ripzip/blob/main/example3.png">
-<img src="https://github.com/GitLabBR/ripzip/blob/main/example3end.PNG">
+<br><br>
 
